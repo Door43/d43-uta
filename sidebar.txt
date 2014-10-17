@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[uta:home|Door43 (uta)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-uta|d43-uta repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-uta/archive/master.zip|d43-uta.zip]]
+
+**Recent Changes**
+{{changes>ns = uta}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/uta|Ethnologue data]]
+
